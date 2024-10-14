@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nayem Ahmed</h1>
 <h3 align="center">A passionate frontend developer and Ai enthusiast from Bangladesh</h3>
-
+<p align="center"><img src="https://www.hubspot.com/hs-fs/hubfs/how-to-start-coding-1.jpg?width=595&height=400&name=how-to-start-coding-1.jpg"></p>
 - 🔭 I’m currently working on [AI automation in Hydroponics](https://github.com/sanjoydasjoy/HydroCrafter-Arduino-Project)
 
 - 🌱 I’m currently learning **Data Science, Machine learning, Professional Certificate in Tiny Machine Learning, Algorithms part 1 by Stanford University**
